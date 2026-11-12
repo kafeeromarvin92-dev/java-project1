@@ -44,5 +44,5 @@ SSEMUTONO ALBERT MARIA
 ZZIWA LEMUEL PAUL
 
 ## Lecturer
-Add lecturer's name here.
+DR. MUYAMA LILLIAN
 
